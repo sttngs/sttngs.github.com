@@ -1,4 +1,4 @@
 {
-  "redirect" : false,
-  "redirectUrl" : "https://play.google.com/store/apps/details?id="
+  "redirect" : true,
+  "redirectUrl" : "https://play.google.com/store/apps/details?id=com.tanksonline.game"
 }
